@@ -1,11 +1,16 @@
 /* eslint-disable @next/next/no-img-element */
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import Head from 'next/head';
 
 export default function Home() {
   return (
-    <div className="">
-     <img className="m-auto p-5" src="/img/main-characters.jpg" alt="Main Characters" />
-    </div>
+    <>
+      <Head>
+        <title>Avachar | Home</title>
+      </Head>  
+      <div className="">
+      <img className="m-auto p-5  rounded rounded-lg" src="/img/main-characters.jpg" alt="Main Characters" />
+      </div>
+    </>
   )
 }
