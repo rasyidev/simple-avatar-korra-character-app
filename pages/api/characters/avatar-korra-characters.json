@@ -1,0 +1,105 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Tenzin",
+      "slug": "tenzin",
+      "img": "Tenzin.png",
+      "born": 119,
+      "gender": "Male",
+      "hair_color": "black (botak)",
+      "description": "Tenzin is the youngest child of Avatar Aang and Kataraand the oldest living airbending master. He lives on Air Temple Island with the Air Acolytes, his wife Pema, and their four children: Jinora, Ikki, Meelo, and Rohan. During the resurfacing of airbending across the Earth Kingdom after the Harmonic Convergence of 171 AG, Tenzin and his family temporarily relocated to the Northern Air Temple. A calm and serious man, he represented the Air Nation on the United Republic Council in Republic City prior to its dissolution and was responsible for educating Avatar Korra in the art of airbending and spirituality."
+    },
+    {
+      "id": 2,
+      "name": "Jinora",
+      "slug": "jinora",
+      "img": "Jinora.png",
+      "born": 160,
+      "gender": "Female",
+      "hair_color": "Dark Brown",
+      "description": "Jinora is the firstborn child and elder daughter of Tenzin and Pema and granddaughter of Katara and the late Avatar Aang. She lives on Air Temple Island with her parents and her three younger siblings: Ikki, Meelo, and Rohan. Possessed of an avid interest in books and quiet in general, Jinora is the youngest known airbending maste and has a natural affinity with spirits; prior to the reopening of the spirit portals, she was one of only a handful of humans who could communicate with and perceive spirits in the physical world. As a result, she became Avatar Korra's guide into the Spirit World. Sometime after 171 AG, she entered a romantic relationship with Kai."
+    },
+    {
+      "id": 3,
+      "name": "Ikki",
+      "slug": "ikki",
+      "img": "Ikki.png",
+      "born": 163,
+      "gender": "Female",
+      "hair_color": "Dark Brown",
+      "description": "Ikki is the second child and youngest daughter of Tenzin and Pema, and the granddaughter of Avatar Aang and Katara. She has three siblings: an older sister named Jinora and two younger brothers named Meelo and Rohan. The entire family resides on Air Temple Island, near Republic City. Ikki is fun-loving, energetic, and extremely talkative"
+    },
+    {
+      "id": 4,
+      "name": "Meelo",
+      "slug": "meelo",
+      "img": "Meelo.png",
+      "born": 165,
+      "gender": "Male",
+      "hair_color": "Dark Brown",
+      "description": "Meelo is the third child and the first son of Tenzin and Pema, and grandson of Avatar Aang and Katara. He resides on Air Temple Island with the rest of his family. The young airbender has two older sisters, Jinora and Ikki, and a younger brother named Rohan."
+    },
+    {
+      "id": 5,
+      "name": "Korra",
+      "slug": "korra",
+      "img": "Korra.png",
+      "born": 153,
+      "gender": "Female",
+      "hair_color": "Dark Brown",
+      "description": "Korra is the current incarnation of the Avatar and immediate successor of Avatar Aang. Born and raised in the Southern Water Tribe, where she mastered waterbending, earthbending, and firebending,[7] she later relocated to Republic City to attain a similar proficiency with airbending under the tutelage and guidance of Tenzin, as well as to help her overcome her aversion to the spiritual aspects of the bending arts. With the assistance of Aang's spirit, Korra gained the ability to energybend and, after connecting with her past lives, she gained the capacity to enter the Avatar State at will, marking her transition into a fully realized Avatar.[8] However, due to her temporary separation from Raava during the Harmonic Convergence of 171 AG, she no longer has a connection to her past lives.[9] Following her battle with Zaheer and the Red Lotus, she spent three years recovering from trauma. Later, after defeating Kuvira and bringing an end to the Earth Empire, Korra started a romantic relationship with her best friend, Asami Sato."
+    },
+    {
+      "id": 6,
+      "name": "Bolin",
+      "slug": "bolin",
+      "img": "Bolin.png",
+      "born": 154,
+      "gender": "Male",
+      "hair_color": "Black",
+      "description": "Bolin is an earthbender from a multicultural family. He grew up on the streets of Republic City under the protection of his older brother, Mako, after their parents were killed by a firebender. Eventually, he and his brother founded a pro-bending team, the Fire Ferrets, that would later include Avatar Korra. After the Pro-bending Tournament ended, Bolin joined Team Avatar in an attempt to stop the Equalist organization."
+    },
+    {
+      "id": 7,
+      "name": "Lin Beifong",
+      "slug": "lin-beifong",
+      "img": "Lin_Beifong.png",
+      "born": 120,
+      "gender": "Female",
+      "hair_color": "Black",
+      "description": "Lin Beifong is the Chief of Police of the Republic City Police Department, the daughter of Toph Beifong and Kanto, and the older maternal half sister of Suyin Beifong. Although her mother taught Avatar Korra's previous incarnation how to earthbend, Lin displayed no affection toward her when they first met. However, Lin's feelings toward the young Avatar changed when Amon and his Equalists made their public appearance and openly challenged the benders of the world. Lin is brave, loyal, and willing to sacrifice herself in order to do what she believes is right."
+    },
+    {
+      "id": 8,
+      "name": "Amon",
+      "slug": "amon",
+      "img": "Amon.png",
+      "born": 130,
+      "gender": "Male",
+      "hair_color": "Brown",
+      "description": "Amon, born as Noatak, was the charismatic and mysterious leader of an anti-bender revolutionary group known as the Equalists. Their ultimate goal was to introduce equality for all by permanently ridding the world of benders. A nimble, agile, and stealthy fighter, Amon was fearless in facing his opponents, regardless of their powerful bending skills and abilities."
+    },
+    {
+      "id": 9,
+      "name": "Kuvira",
+      "slug": "kuvira",
+      "img": "Kuvira.png",
+      "born": 132,
+      "gender": "Female",
+      "hair_color": "Brown",
+      "description": "Kuvira is a master metalbender who served as a political and military leader of the Earth Kingdom and the Earth Empire between 171 and 174 AG. Before her rise to power, she was taken in by Suyin Beifong and a prominent member of the Metal Clan, serving as both the captain of the guard in Zaofu and part of the city dance troupe. Following the outbreak of anarchy in the Earth Kingdom upon Earth Queen Hou-Ting's assassination, Kuvira left the Metal Clan and earned the trust of the world leaders by stabilizing Ba Sing Se and was appointed as the nation's provisional leader."
+    },
+    {
+      "id": 10,
+      "name": "Zaheer",
+      "slug": "zaheer",
+      "img": "Zaheer.png",
+      "born": 132,
+      "gender": "Male",
+      "hair_color": "Gray",
+      "description": "Zaheer is the leader of the Red Lotus, a martial arts expert, and an anarchist, who strongly believes in the foundation of a new world without the Order of the White Lotus, the four nations, or the Avatar. After the Harmonic Convergence of 171 AG, he also became an airbender and, after having let go of his final earthly tether, he unlocked the ability of flight, becoming the second person ever to have done so."
+    }
+  ]
+
+}
